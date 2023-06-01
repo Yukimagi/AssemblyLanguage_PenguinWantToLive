@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(8): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  ASM_HW.vcxproj -> C:\Users\USER\source\repos\ASM_Final\Debug\ASM_HW.exe
