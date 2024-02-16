@@ -1,1 +1,1 @@
-![contents](./第二組_PenguinWantToLive.pdf)
+#### 詳細介紹請查看PDF
